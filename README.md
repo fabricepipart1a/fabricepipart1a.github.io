@@ -11,4 +11,4 @@ Nowadays, a lot of people choose the road that Linux started paving decades ago.
 
 In this article, we'll see how to mix Java, Docker, tests, REST and Quarkus to create the ultimate Command Line tool. Are you ready for this ultimate melting-pot?
 
-[Link](quarkus-java-sample-cli/index.html)
+[Link](https://fabricepipart1a.github.io/quarkus-java-sample-cli/)
